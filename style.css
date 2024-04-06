@@ -1,0 +1,28 @@
+h1 {
+    color: indigo;
+    text-align: center;
+}
+h2 {
+    background-color: rgb(219, 209, 237);
+    color:rebeccapurple;
+    border: 1px solid rebeccapurple;
+    display: inline-block;
+    width: 420px;
+    padding: 5px; 
+}
+table {
+    color: rebeccapurple;
+    background-color: rgb(199, 194, 209);
+    padding: 2.5%;
+    margin: 8.5px;
+    box-sizing: border-box;
+    width: 200px;
+    align-items: left;
+    float: right;
+}
+ img {
+    width: 185px;
+    height: 185px;
+    display: inline-block;
+    float: inline-end;
+ }
